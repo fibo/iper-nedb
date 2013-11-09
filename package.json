@@ -18,5 +18,8 @@
   "author": "fibo",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "9877cb909c9cb2a22fb49524059dc6152e287b2c"
+  "gitHead": "9877cb909c9cb2a22fb49524059dc6152e287b2c",
+  "dependencies": {
+    "nedb": "~0.8.12"
+  }
 }
