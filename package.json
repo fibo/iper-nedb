@@ -1,0 +1,22 @@
+{
+  "name": "iper-nedb",
+  "version": "0.0.0",
+  "description": "embedded database for hypergraphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fibo/iper-nedb.git"
+  },
+  "keywords": [
+    "math",
+    "graph",
+    "nedb"
+  ],
+  "author": "fibo",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9877cb909c9cb2a22fb49524059dc6152e287b2c"
+}
